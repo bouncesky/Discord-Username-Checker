@@ -10,7 +10,7 @@ BASE_URL = "https://discord.com/api/v9/users/@me/pomelo-attempt"
 REQUEST_HEADERS = {
     "Content-Type": "Application/json",
     "Orgin": "https://discord.com/",
-    "Authorization":"YOUR-TOKEN-GOES-HERE"
+    "Authorization":"MjU4MDEzMjYyODQ1NTc1MTcy.GKB0vW.zQKWW6JQLWMFeQeolJ0pfCf00qqEuytQpuyUQE"
 }
 
 
